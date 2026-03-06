@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = "8722572380:AAGQJyBKXsR4AQvi_kGdgRMP1tECdEx6Luo"
+TOKEN = "BOT_TOKEN"
 
 users = {}
 
