@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "TOKENINGIZ"
+TOKEN = "8722572380:AAGQJyBKXsR4AQvi_kGdgRMP1tECdEx6Luo"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
